@@ -1,4 +1,4 @@
-# [Finals-Lab-Task-3.1] - Using MYSQL Clause
+# Finals-Lab-Task-3.1 - Using MYSQL Clause
 
 ## Step by Step Process
 
